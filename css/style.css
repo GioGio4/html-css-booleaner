@@ -82,3 +82,22 @@ header {
     display: inline-block;
     width: 48%;
 }
+
+.photo-link1{
+    background-image: url(/img/graph.jpg);
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.photo-link2{
+    background-image: url(/img/monitor.jpg);
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+#text-photo{
+    color: white;
+    padding: 20px;
+}
