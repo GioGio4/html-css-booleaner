@@ -1,10 +1,12 @@
-body{
+* {
     margin: 0;
+    padding: 0;
 }
 
 header {
     background-image: url(/img/pattern.png)  ;
     background-color: cornflowerblue;
+    
     
 }
 
@@ -12,4 +14,31 @@ header {
     width: 250px;
     padding-top: 80px;
    
+}
+
+.bodymargin {
+    margin: 8px;
+    padding: 5px;
+}
+
+.main-title {
+    font-size: 32px;
+}
+
+.grey-text {
+    color: grey;
+}
+
+.booleaner {
+    color: rgb(61, 142, 209);
+}
+
+.custom-margin {
+    margin-left: 8px;
+    padding-left: 5px;
+}
+
+.small-font {
+    font-size: smaller;
+    
 }
