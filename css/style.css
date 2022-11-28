@@ -42,3 +42,13 @@ header {
     font-size: smaller;
     
 }
+
+.testo-evidenziato {
+    background-color: yellow;
+
+}
+
+.list-margin{
+    margin-left: 25px;
+    
+}
