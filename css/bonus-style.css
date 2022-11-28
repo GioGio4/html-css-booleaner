@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(/img/pattern.png)  ;
+    background-color: cornflowerblue;
+    
+    
+}
+
+
+.logo {
+    width: 250px;
+    padding-top: 80px;
+   
+}
+
+.bodymargin {
+    margin: 8px;
+    padding: 5px;
+}
+
+.main-title {
+    font-size: 32px;
+}
+
+.grey-text {
+    color: grey;
+}
+
+.booleaner {
+    color: rgb(61, 142, 209);
+}
+
+.custom-margin {
+    margin-left: 8px;
+    padding-left: 5px;
+}
+
+.small-font {
+    font-size: smaller;
+    
+}
+
+.testo-evidenziato {
+    background-color: yellow;
+
+}
+
+.list-margin {
+    margin-left: 25px;
+    
+}
+
+.table-margin {
+    margin-top: 8px;
+    margin-bottom: 0;
+    margin-left: 13px;
+    text-align: justify;
+}
+
+.table-color1 {
+    background-color: rgb(15, 120, 219);
+}
+
+.table-color2 {
+    background-color: aqua;
+}
+
+.table1 {
+    display: inline-block;
+    width: 25%;
+}
+
+.table2 {
+    display: inline-block;
+    width: 25%;
+}
+
+.table3 {
+    display: inline-block;
+    width: 48%;
+}
+
+.photo-link1{
+    background-image: url(/img/graph.jpg);
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.photo-link2{
+    background-image: url(/img/monitor.jpg);
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+#text-photo{
+    color: white;
+    padding: 20px;
+}
