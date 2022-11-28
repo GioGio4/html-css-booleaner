@@ -48,7 +48,37 @@ header {
 
 }
 
-.list-margin{
+.list-margin {
     margin-left: 25px;
     
+}
+
+.table-margin {
+    margin-top: 8px;
+    margin-bottom: 0;
+    margin-left: 13px;
+    text-align: justify;
+}
+
+.table-color1 {
+    background-color: rgb(15, 120, 219);
+}
+
+.table-color2 {
+    background-color: aqua;
+}
+
+.table1 {
+    display: inline-block;
+    width: 25%;
+}
+
+.table2 {
+    display: inline-block;
+    width: 25%;
+}
+
+.table3 {
+    display: inline-block;
+    width: 48%;
 }
